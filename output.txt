@@ -1,0 +1,51 @@
+
+Input size: 1000
+
+Sorted distribution:
+Heapsort: 0.001483 seconds (average of 5 trials)
+Quicksort: 0.000559 seconds (average of 5 trials)
+Merge Sort: 0.000730 seconds (average of 5 trials)
+
+Reverse sorted distribution:
+Heapsort: 0.001155 seconds (average of 5 trials)
+Quicksort: 0.000471 seconds (average of 5 trials)
+Merge Sort: 0.000684 seconds (average of 5 trials)
+
+Random distribution:
+Heapsort: 0.001172 seconds (average of 5 trials)
+Quicksort: 0.000742 seconds (average of 5 trials)
+Merge Sort: 0.000882 seconds (average of 5 trials)
+
+Input size: 10000
+
+Sorted distribution:
+Heapsort: 0.016316 seconds (average of 5 trials)
+Quicksort: 0.005570 seconds (average of 5 trials)
+Merge Sort: 0.007312 seconds (average of 5 trials)
+
+Reverse sorted distribution:
+Heapsort: 0.014227 seconds (average of 5 trials)
+Quicksort: 0.005516 seconds (average of 5 trials)
+Merge Sort: 0.007825 seconds (average of 5 trials)
+
+Random distribution:
+Heapsort: 0.015396 seconds (average of 5 trials)
+Quicksort: 0.008994 seconds (average of 5 trials)
+Merge Sort: 0.011427 seconds (average of 5 trials)
+
+Input size: 100000
+
+Sorted distribution:
+Heapsort: 0.205899 seconds (average of 5 trials)
+Quicksort: 0.067458 seconds (average of 5 trials)
+Merge Sort: 0.085941 seconds (average of 5 trials)
+
+Reverse sorted distribution:
+Heapsort: 0.190920 seconds (average of 5 trials)
+Quicksort: 0.068734 seconds (average of 5 trials)
+Merge Sort: 0.088333 seconds (average of 5 trials)
+
+Random distribution:
+Heapsort: 0.202016 seconds (average of 5 trials)
+Quicksort: 0.108479 seconds (average of 5 trials)
+Merge Sort: 0.142128 seconds (average of 5 trials)
