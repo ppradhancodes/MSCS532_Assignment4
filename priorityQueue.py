@@ -49,8 +49,6 @@ class PriorityQueue:
     def is_empty(self):
         return len(self.heap) == 0
 
-# Example usage:
-
 # Task scheduling
 print("Task Scheduling Example:")
 task_queue = PriorityQueue()
